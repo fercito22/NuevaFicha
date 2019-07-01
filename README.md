@@ -1,5 +1,7 @@
 # nueva-ficha-1-julio-2019
 
+TRATANDO DE RECUPERAR EL PROYECTO FICHA
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
